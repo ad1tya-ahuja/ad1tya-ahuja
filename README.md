@@ -5,6 +5,12 @@
   - [Azure Sentinel (SIEM)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
   
+<h2>PowerShell Scripts</h2>
+
+  - [Failed RDP Log collection]
+  - [Active Directory Mass user creation]
+  - [Integrity checker]
+
 
 <h2>📄 Certifications</h2>
 
