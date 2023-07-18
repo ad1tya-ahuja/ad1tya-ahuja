@@ -1,7 +1,7 @@
 <h1>Hi, I'm Aditya <br/><a href="https://www.linkedin.com/in/aditya-ahuja-5465121b8/">Student</a>, <a href="https://tryhackme.com/p/Ad1tya">Cybersecurity Enthusiast</a>
 <h2>👨‍💻 Cyber Security Projects</h2>
 
-  - [Active Directory HomeLab Setup](https://github.com/ad1tya-ahuja/Active-Directory))
+  - [Active Directory HomeLab Setup](https://github.com/ad1tya-ahuja/Active-Directory)
   - [Azure Sentinel (SIEM)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
   
