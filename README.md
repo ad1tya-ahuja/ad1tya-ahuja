@@ -7,9 +7,9 @@
   
 <h2>PowerShell Scripts</h2>
 
-  - [Failed RDP Log collection]
-  - [Active Directory Mass user creation]
-  - [Integrity checker]
+  - [Failed RDP Log collection](https://github.com/ad1tya-ahuja/Azure-Sentinel/blob/main/extractlogs.ps1)
+  - [Active Directory Mass user creation](https://github.com/ad1tya-ahuja/Active-Directory/blob/main/usercreation.ps1)
+  - [Integrity checker](https://github.com/ad1tya-ahuja/File-Integrity-Monitor/blob/main/integritymonitor.ps1)
 
 
 <h2>📄 Certifications</h2>
