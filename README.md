@@ -17,11 +17,11 @@
   - [eJPT](https://verified.elearnsecurity.com/certificates/d73a3854-787c-4de4-a2e7-c09a7ed16d4a)
   - [Dante HTB](https://drive.google.com/file/d/1tE1v77kKzamD2Us7GDU2t8xVm7SKgPLJ/view?usp=sharing)
 
-<h2>🖥 TryHackme and HackTheBox Machines</h2>
+<h2>🖥 Medium Blogs</h2>
 
-  - [Kenobi](https://drive.google.com/file/d/1tE1v77kKzamD2Us7GDU2t8xVm7SKgPLJ/view?usp=sharing)
-  - [Kenobi](https://drive.google.com/file/d/1tE1v77kKzamD2Us7GDU2t8xVm7SKgPLJ/view?usp=sharing)
-  - [Kenobi](https://drive.google.com/file/d/1tE1v77kKzamD2Us7GDU2t8xVm7SKgPLJ/view?usp=sharing)
+  - [HomeLab](https://medium.com/@adityaahuja.work/setting-up-a-home-lab-with-active-directory-oracle-virtualbox-d285d7459848)
+  - [SIEM](https://medium.com/@adityaahuja.work/azure-sentinel-tutorial-map-with-live-cyber-attacks-siem-93f2dbb0428e)
+  - [Integrity Monitor](https://medium.com/@adityaahuja.work/creating-a-file-integrity-monitor-powershell-7f01ab5c5e3a)
 
 
 
