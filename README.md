@@ -3,7 +3,7 @@
 
   - [Active Directory HomeLab Setup](https://github.com/ad1tya-ahuja/Active-Directory)
   - [Azure Sentinel (SIEM)](https://github.com/ad1tya-ahuja/Azure-Sentinel)
-  - [File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File Integrity Monitor](https://github.com/ad1tya-ahuja/File-Integrity-Monitor)
   
 <h2>PowerShell Scripts</h2>
 
