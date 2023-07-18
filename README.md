@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects</h2>
 
   - [Active Directory HomeLab Setup](https://github.com/ad1tya-ahuja/Active-Directory)
-  - [Azure Sentinel (SIEM)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Azure Sentinel (SIEM)](https://github.com/ad1tya-ahuja/Azure-Sentinel)
   - [File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2>PowerShell Scripts</h2>
